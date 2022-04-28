@@ -33,6 +33,11 @@ Also, the following pages are **NOT** to be added by any contributors:
 
 ## Bug Reports
 
+## Where to ask for help
+
+## How to submit changes
+
+## How to request an enhancement 
 
 
 
