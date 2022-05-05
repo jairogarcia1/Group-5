@@ -26,6 +26,7 @@ Also, the following pages are **NOT** to be added by any contributors:
 
 ## Environment Details
 
+We are going to be using GitHub pages as our enviroment. Our project is compose of HTML, CSS and JavaScript so we found this enviroment to work best for our needs.
 
 ## Testing
 
