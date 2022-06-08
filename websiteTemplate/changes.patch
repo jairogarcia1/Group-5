@@ -1,0 +1,28 @@
+diff --git a/websiteTemplate/group_website_template.html b/websiteTemplate/group_website_template.html
+index fc6b8bb..4daf590 100644
+--- a/websiteTemplate/group_website_template.html
++++ b/websiteTemplate/group_website_template.html
+@@ -57,6 +57,7 @@
+                 <button class="main__btn"><a href="/">CSS</a></button>
+                 <button class="main__btn"><a href="/">Python</a></button>
+                 <button class="main__btn"><a href="/">Java</a></button>
++                <button class="main__btn"><a href="/">C++</a></button>
+                 
+             </div>
+             <div class="main__img--container">
+@@ -71,7 +72,14 @@
+         
+     </div>
+ 
+-
++    <footer>
++        <ul>
++            <li>
++            Copyright 2021
++            </li>
++        </ul>
++    </footer>   
++        
+     <script src="app.js"></script>
+     <script src="https://kit.fontawesome.com/28fb2f459e.js" crossorigin="anonymous"></script>
+     
