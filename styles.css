@@ -219,6 +219,7 @@
     max-width: 1300px;
     padding-right: 50px;
     padding-left: 50px;
+    clear: both;
   }
   
   .main__content {
