@@ -256,6 +256,10 @@
 
   }
 
+   #intro {
+       font-size: 1.2em;
+  }
+
   .main__btn {
     font-size: .5rem;
     background-image: linear-gradient(to top, #000000 0%, #aaaaaa 100%);
