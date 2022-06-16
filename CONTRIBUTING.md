@@ -26,10 +26,13 @@ Also, the following pages are **NOT** to be added by any contributors:
 
 ## Environment Details
 
-We are going to be using GitHub pages as our enviroment. Our project is compose of HTML, CSS and JavaScript so we found this enviroment to work best for our needs.
+We are going to be using GitHub pages as our enviroment. Our project is composed of HTML, CSS and JavaScript so we found this enviroment to work best for our needs.
 
 ## Testing
 
+Testing for this project is entirely dependent on the ability of your pull-request to pass all Super-linter workflows, **as well as** to successfully automatically deploy to the GitHub Pages environment once being merged into the code base.
+
+Furthermore, if any other bugs/inconsistencies are noticed, please submit an issue or pull-request while referring to the other guidelines within this document.
 
 ## Bug Reports
 
@@ -51,9 +54,3 @@ Once you submit your PR, a Docs team member will review your proposal. We may as
 - If you run into any merge issues, checkout this [git tutorial](https://lab.github.com/githubtraining/managing-merge-conflicts) to help you resolve merge conflicts and other issues.
 
 When your pull request has been approved, your contributions will be visible for all to see! Congrats! You've just brought us one step closer to making this repo something amazing.
-
-## How to request an enhancement 
-
-
-
-### Reminders
